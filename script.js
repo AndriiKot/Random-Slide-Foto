@@ -1,7 +1,7 @@
 ﻿const buttonRandomPhoto = document.querySelector('button');
-const img = null;
 
 function SelectFoto() {
-    console.log("Hello!!")
+ location.reload()    
 }
+
 buttonRandomPhoto.addEventListener('click',SelectFoto);
